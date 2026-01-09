@@ -1,0 +1,1 @@
+Activity suggestion web application that fetches random activities from an API. Features a clean UI built with HTML, CSS, and vanilla JavaScript, bundled with Vite for fast development and production builds.
